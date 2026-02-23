@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab4\\",
+  "WorkspaceRootPath": "D:\\ficelab\\SDA\\2-semester\\lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|c:\\users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab4\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|solutionrelative:lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|d:\\ficelab\\sda\\2-semester\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|c:\\users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|d:\\ficelab\\sda\\2-semester\\lab4\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7149BDC0-9700-431D-BF36-4DDBEEEB8E72}|lab4\\lab4.csproj|solutionrelative:lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lab4",
-              "DocumentMoniker": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab4\\lab4\\lab4.csproj",
+              "DocumentIndex": 1,
+              "Title": "lab4.csproj",
+              "DocumentMoniker": "D:\\ficelab\\SDA\\2-semester\\lab4\\lab4\\lab4.csproj",
               "RelativeDocumentMoniker": "lab4\\lab4.csproj",
-              "ToolTip": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab4\\lab4\\lab4.csproj",
+              "ToolTip": "D:\\ficelab\\SDA\\2-semester\\lab4\\lab4\\lab4.csproj",
               "RelativeToolTip": "lab4\\lab4.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab4\\lab4\\Program.cs",
+              "DocumentMoniker": "D:\\ficelab\\SDA\\2-semester\\lab4\\lab4\\Program.cs",
               "RelativeDocumentMoniker": "lab4\\Program.cs",
-              "ToolTip": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab4\\lab4\\Program.cs",
+              "ToolTip": "D:\\ficelab\\SDA\\2-semester\\lab4\\lab4\\Program.cs",
               "RelativeToolTip": "lab4\\Program.cs",
-              "ViewState": "AgIAABwBAAAAAAAAAAAiwBoAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAQwG8BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T07:57:43.04Z",
               "EditorCaption": ""

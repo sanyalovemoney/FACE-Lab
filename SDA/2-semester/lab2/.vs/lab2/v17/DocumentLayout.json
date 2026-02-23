@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab2\\",
+  "WorkspaceRootPath": "D:\\ficelab\\SDA\\2-semester\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab2\\lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{59FCBB78-FB52-4354-84FC-EFF01EACAB98}|lab2\\lab2.csproj|d:\\ficelab\\sda\\2-semester\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FCBB78-FB52-4354-84FC-EFF01EACAB98}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "lab2.cpp",
-              "DocumentMoniker": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab2\\lab2\\lab2.cpp",
-              "RelativeDocumentMoniker": "lab2\\lab2.cpp",
-              "ToolTip": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab2\\lab2\\lab2.cpp",
-              "RelativeToolTip": "lab2\\lab2.cpp",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-09T09:55:02.717Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ficelab\\SDA\\2-semester\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\ficelab\\SDA\\2-semester\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T08:44:17.069Z",
               "EditorCaption": ""
             }
           ]

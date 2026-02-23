@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab3\\lab3\\lab3\\lab3.csproj",
+      "projectUniqueName": "D:\\ficelab\\SDA\\2-semester\\lab3\\lab3\\lab3.csproj",
       "projectName": "lab3",
-      "projectPath": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab3\\lab3\\lab3\\lab3.csproj",
+      "projectPath": "D:\\ficelab\\SDA\\2-semester\\lab3\\lab3\\lab3.csproj",
       "packagesPath": "C:\\Users\\casha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\casha\\source\\repos\\sanyalovemoney\\labasd\\2025-2026\\2-semester\\lab3\\lab3\\lab3\\obj\\",
+      "outputPath": "D:\\ficelab\\SDA\\2-semester\\lab3\\lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\casha\\AppData\\Roaming\\NuGet\\NuGet.Config",

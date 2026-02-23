@@ -3,29 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36915.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab2", "lab2\lab2.vcxproj", "{506ABAE5-C798-444D-AF15-F727C171519F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2", "lab2\lab2.csproj", "{59FCBB78-FB52-4354-84FC-EFF01EACAB98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Debug|x64.ActiveCfg = Debug|x64
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Debug|x64.Build.0 = Debug|x64
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Debug|x86.ActiveCfg = Debug|Win32
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Debug|x86.Build.0 = Debug|Win32
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Release|x64.ActiveCfg = Release|x64
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Release|x64.Build.0 = Release|x64
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Release|x86.ActiveCfg = Release|Win32
-		{506ABAE5-C798-444D-AF15-F727C171519F}.Release|x86.Build.0 = Release|Win32
+		{59FCBB78-FB52-4354-84FC-EFF01EACAB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FCBB78-FB52-4354-84FC-EFF01EACAB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FCBB78-FB52-4354-84FC-EFF01EACAB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FCBB78-FB52-4354-84FC-EFF01EACAB98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {51CC49A9-E690-42D2-90C6-66F130DE8143}
+		SolutionGuid = {E8A2CF5C-B6D3-4832-975F-051AD1DE63D3}
 	EndGlobalSection
 EndGlobal

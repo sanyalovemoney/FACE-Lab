@@ -326,7 +326,7 @@ namespace GraphLab5
                 txtLog.AppendText("\n");
             }
         }
-
+   
         private PointF[] GetCircleCoords(int count, int cx, int cy, int r)
         {
             PointF[] pts = new PointF[count];
