@@ -1,0 +1,19 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+
+# Claude AI / Copilot
+.claude/
+CopilotSnapshots/
+.vs/CopilotIndices/
+state.mpack
+
+# OS generated
+Thumbs.db
+.DS_Store
