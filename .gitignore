@@ -17,3 +17,6 @@ state.mpack
 # OS generated
 Thumbs.db
 .DS_Store
+
+# Markdown files
+*.md
